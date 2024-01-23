@@ -13,6 +13,7 @@ const Page = () => (
     </div>
 
     <div className='relative'>
+      {/* demo */}
       <GetStarted />
     <div className='gradient-04 z-0'/>
       <WhatsNew />
